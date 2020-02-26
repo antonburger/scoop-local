@@ -1,13 +1,13 @@
 {
-    "version": "6.5",
+    "version": "6.6.8",
     "homepage": "https://www.linqpad.net",
-    "description": "The .NET programmer’s playground.",
+    "description": "The .NET programmer's playground.",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.linqpad.net/eula.txt"
     },
-    "url": "http://download.linqpad.net/public/LINQPad6.zip",
-    "hash": "1fe87bb58f25c03353b2509bfebebecd1b156b2afa2c39f3138354bfa342ecc5",
+    "url": "https://www.linqpad.net/GetFile.aspx?preview+LINQPad6-Beta.zip#/dl.7z",
+    "hash": "b9cfc0a9a2a7e5c9ed6aa210398e03c6b6d233118a7a78102d02f109dc8b8680",
     "suggest": {
         ".Net SDK": "dotnet-sdk"
     },
@@ -56,6 +56,6 @@
         "regex": "LINQPad6-Beta.*version\\s+(\\d+(\\.\\d+)+)"
     },
     "autoupdate": {
-        "url": "https://www.linqpad.net/GetFile.aspx?preview+LINQPad$majorVersion-Beta.zip"
+        "url": "https://www.linqpad.net/GetFile.aspx?preview+LINQPad$majorVersion-Beta.zip#/dl.7z"
     }
 }
