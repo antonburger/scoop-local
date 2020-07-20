@@ -53,7 +53,7 @@
     },
     "checkver": {
         "url": "https://www.linqpad.net/LINQPad6.aspx",
-        "regex": "(?i-s)linqpad\\s+\\d+.*?beta(?s).*(?-s)Current version:[^0-9]*?(\\d+(\\.\\d+)+)"
+        "regex": "Current beta version:[^0-9]*?(\\d+(\\.\\d+)+)"
     },
     "autoupdate": {
         "url": "https://www.linqpad.net/GetFile.aspx?preview+LINQPad$majorVersion-Beta.zip#/dl.7z"
