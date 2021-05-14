@@ -1,5 +1,5 @@
 {
-    "version": "6.14.4",
+    "version": "6.14.6",
     "homepage": "https://www.linqpad.net",
     "description": "The .NET programmer's playground.",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.linqpad.net/eula.txt"
     },
     "url": "https://www.linqpad.net/GetFile.aspx?preview+LINQPad6-Beta.zip#/dl.7z",
-    "hash": "49ee66af23a37a3cce6d98a023d9f4006c02ee830296128f4e3299a51a5976f1",
+    "hash": "b188fce390da1fa5dde2807187b67b02b90a9feee3f7434f023892365acbb4e1",
     "suggest": {
         ".Net SDK": "dotnet-sdk"
     },
